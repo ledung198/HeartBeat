@@ -61,7 +61,7 @@ var Point = (function () {
     return this;
   };
   return Point;
-  
+
 })();
 /*
  * Particle class
@@ -209,7 +209,7 @@ var ParticlePool = (function () {
     }
     context.closePath();
     // create the fill
-    context.fillStyle = "#FF5CA4";
+    context.fillStyle = "#BF55EC";
     context.fill();
     // create the image
     var image = new Image();
