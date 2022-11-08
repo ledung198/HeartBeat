@@ -61,6 +61,7 @@ var Point = (function () {
     return this;
   };
   return Point;
+  
 })();
 /*
  * Particle class
